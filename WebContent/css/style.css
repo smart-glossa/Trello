@@ -1,0 +1,247 @@
+.head
+{
+	background-color: #1976d2;
+	height: 70px;
+
+	
+}
+li 
+{
+	display: inline;
+margin-left: 40px;
+padding: 8px;
+font-size: 20px;
+
+}
+
+.list
+{
+	float: right;
+	margin-top: 10px;
+background-color: #4caf50;
+border-radius: 10px;
+	margin-right: 50px;
+}
+.list a
+{
+	text-decoration: none;
+	color: white;
+}
+.list1
+{
+	float: right;
+	margin-top: 10px;
+	background-color: #1565c0;
+	border-radius: 10px; 
+	color: white;
+
+}
+.list3
+{
+	color: white;
+	width: 170px;
+height: 60px;
+margin-top: 10px;
+}
+
+.content
+{
+	color: white;
+	font-size: 40px;
+	padding-left: 450px;
+	font-family: Arial, Helvetica, sans-serif
+}
+.bod
+{
+	background-color: #0d47a1;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+.p1
+{
+	color: white;
+	font-size: 30px;
+	padding-left: 500px;
+
+}
+.p2
+{
+	color: white;
+	font-size: 30px;
+	padding-left: 450px;
+}
+.p3
+{
+	color: white;
+	font-size: 30px;
+	padding-left: 580px;
+}
+.butdiv
+{
+	padding-left: 550px;
+
+}
+.but
+{
+	background-color: #388e3c;
+	color: white;
+	border:none; 
+	width: 180px;
+	height: 30px;
+}
+.link
+{
+	color: white;
+	padding-left: 550px;
+
+}
+.a
+{
+	color: white;
+}
+tr
+{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+table
+{
+	padding-left: 450px;
+}
+.inp
+{
+	width: 350px;
+	height: 50px;
+	background-color:#e0e0e0; 
+	font-size: 20px;
+	box-shadow: 1px solid #bdbdbd;
+
+}
+.span{
+	color: #1e88e5;
+}
+.but1
+{
+	padding-left: 550px;
+	padding-top: 50px;
+}
+.butstyle
+{
+	background-color: #388e3c;
+	width:200px;
+	height: 40px; 
+	border:none; 
+	color: white;
+	border-radius: 120px;
+	font-size: 25px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.butstyle:hover
+{
+	background-color: #1b5e20;
+}
+
+
+/*register page css*/
+
+.title
+{
+	font-size: 35px;
+	padding-left: 450px;
+	padding-top: 100px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+.tdd
+{
+	color:black;
+
+}
+
+
+.in
+{
+	width: 350px;
+	height: 45px;
+	outline: none;
+	background-color: #eeeeee;
+	font-size: 20px;
+	border-radius: 05px;
+
+}
+.add
+{
+	padding-left: 450px;
+	padding-top:30px;
+}
+.span1
+{
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.spana
+{
+font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+.spana1
+{
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.span3
+{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*button style*/
+.bu
+{
+	padding-left: 450px;
+	padding-top: 20px;
+}
+
+#buts
+
+{
+	width: 220px;
+	height: 42px;
+	color: #757575;
+	border-radius: 05px;
+	font-size: 18px;
+	font-family: Tahoma, Geneva, sans-serif;
+	outline: none;
+	font-weight: bold;
+}
+
+.line
+{
+	padding-left: 450px;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 30px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.but8
+{
+	width: 220px;
+	height: 42px;
+	color: white;
+	font-size: 20px;
+	background-color:#388e3c; 
+	border-radius: 05px;
+	outline: none;
+	font-weight: bold;
+}
+.para
+{
+	padding-left: 450px;
+	font-size: 20px;
+	color: #bdbdbd;
+	font-family: Arial, Helvetica, sans-serif;
+}
